@@ -1,0 +1,11 @@
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.userosscache
+*.sln.docstates
+Thumbs.db
+.DS_Store
