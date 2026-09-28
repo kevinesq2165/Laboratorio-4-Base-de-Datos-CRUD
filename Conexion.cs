@@ -10,7 +10,7 @@ namespace Problema1_Productos
     internal class Conexion
     {
 
-        private static string cadenaConexion = "Server=localhost;Database=problema1_productos;Uid=root;Pwd=Sauriento2165*";
+        private static string cadenaConexion = "Server=localhost;Database=problema1_productos;Uid=root;Pwd=###";
 
         public static MySqlConnection ObtenerConexion()
         {
