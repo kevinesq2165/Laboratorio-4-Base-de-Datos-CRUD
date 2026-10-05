@@ -35,12 +35,19 @@ El programa permite realizar las operaciones básicas de un CRUD:
 - **Buscar:** filtrar productos mediante el campo de búsqueda.
 - **Imágenes:** seleccionar y almacenar una imagen asociada al producto.
   CRUD:
+  
   <img width="609" height="525" alt="image" src="https://github.com/user-attachments/assets/68da7a48-955a-498e-9c19-48c347ccc72e" />
+  
   Insertar imágenes:
+  
   <img width="736" height="250" alt="image" src="https://github.com/user-attachments/assets/1c6f7ef2-b9ae-43b0-90a7-38179c8a48e4" />
+  
   Modificando la imagen del raton gamer :
+  
   <img width="469" height="273" alt="image" src="https://github.com/user-attachments/assets/699ee946-40e7-4229-a3d3-73c79b305db3" />
+  
   Eliminando registros:
+  
   <img width="608" height="529" alt="image" src="https://github.com/user-attachments/assets/fff94274-72f9-49b4-8196-2989331543ab" />
  
 
