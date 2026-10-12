@@ -7,6 +7,8 @@ Ejercicio desarrollado para practicar la creación de un **CRUD (Crear, Leer, Ac
 
 **Programado por:** Kevin Esquivel
 
+**Fecha:** 12/10/2026
+
 ---
 
 ## 📋 Descripción
@@ -66,3 +68,18 @@ Para el manejo de los datos se utiliza un **Dictionary<string, object>** para en
 - **Base de datos:** MySQL
 - **Conexión:** MySql.Data
 - **Paradigmas:** Programación Orientada a Objetos e interfaces de C#
+
+---
+
+## ⚙️ Instalación
+
+**Requisitos:** Visual Studio, MySQL Server, MySQL Workbench y Git.
+
+Clonar el repositorio:
+
+- git clone URL_DEL_REPOSITORIO
+- Abrir el archivo .sln en Visual Studio.
+- Ejecutar el script SQL para crear las tablas.
+- Configurar la conexión a MySQL.
+- Instalar el paquete NuGet MySql.Data si es necesario.
+- Ejecutar el proyecto desde Visual Studio.
